@@ -1,2 +1,7 @@
-streamlit
+flask
+requests
 openai
+tiktoken
+faiss-cpu
+langchain
+langchain-community
